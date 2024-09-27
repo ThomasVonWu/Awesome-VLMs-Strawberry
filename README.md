@@ -1,6 +1,10 @@
 # Awesome-VLMs-Strawberry
 A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autonomous Driving and related reasoning techniques.
 
+## OpenAI Docs
+- [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
+- <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px">
+
 ## Papers
 
 ### 2024
@@ -19,3 +23,5 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
     - [Code](https://github.com/opendilab/LMDrive)
     - [LMDrive Datasets](https://openxlab.org.cn/datasets/deepcs233/LMDrive)
 
+- [CoDrivingLLM: Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/pdf/2409.12812)  
+    - [Code](https://github.com/FanGShiYuu/CoDrivingLLM)
