@@ -9,6 +9,11 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 
 ### 2024
 
+- [- Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving [ECCV2024]](https://arxiv.org/abs/2312.03661)
+    - [Code](https://github.com/fudan-zvg/reason2drive) <img src="https://img.shields.io/github/stars/fudan-zvg/reason2drive.svg"/>
+    - [Datasets-GoogelDisk](https://drive.google.com/file/d/16IInbGqEzg4UcNhTlxVA9tS6tOTi4wet/view?usp=sharing)
+    - [Datasets-BaiduDisk](https://pan.baidu.com/s/1tzAuaB42RkguYM863zo6Jw?pwd=6g94)
+    
 - [Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving](https://arxiv.org/pdf/2409.06702)
     - [Code](https://air-discover.github.io/Hint-AD/) <font color=LightCoral>coming soon
     - [Datasets](https://air-discover.github.io/Hint-AD/) <font color=LightCoral>coming soon
@@ -20,8 +25,8 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
     - [CODA-LM Datasets Tutorials](https://github.com/DLUT-LYZ/CODA-LM)  
 
 - [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
-    - [Code](https://github.com/opendilab/LMDrive)
+    - [Code](https://github.com/opendilab/LMDrive) <img src="https://img.shields.io/github/stars/opendilab/LMDrive.svg"/>
     - [LMDrive Datasets](https://openxlab.org.cn/datasets/deepcs233/LMDrive)
 
 - [CoDrivingLLM: Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/pdf/2409.12812)  
-    - [Code](https://github.com/FanGShiYuu/CoDrivingLLM)
+    - [Code](https://github.com/FanGShiYuu/CoDrivingLLM) <img src="https://img.shields.io/github/stars/FanGShiYuu/CoDrivingLLM.svg"/>
