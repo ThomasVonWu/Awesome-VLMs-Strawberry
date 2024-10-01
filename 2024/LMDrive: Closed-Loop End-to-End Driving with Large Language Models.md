@@ -52,7 +52,7 @@
     b) [InterFuser](https://arxiv.org/pdf/2207.14024)网络于2022被CoRL 收录，它提出一种可解释的多传感器融合Transformer结构，旨在提高了端到端驾驶的安全性和可解释性。本文的检测头loss策略与其保持一致；  
     c) Prediction Head Module仅仅在Vision Encoder预训练过程存在，而LLM训练过程和整个模型推理过程步并不会使用它。*</small>
   
-- 2）自然语言Pipeline数据流：输入数据为导航指令和可选的驾驶员提醒指令，模型的骨干选择LLaMA，输出为车辆控制信号、校验指令是否被执行。
+- 2）自然语言Pipeline数据流：输入数据为导航指令和可选的驾驶员提醒指令，模型的骨干选择LLaMA，输出为车辆控制信号、校验指令是否被执行。  
 其中子模块：LLM模块由两部分组成：
     - **Part1, Tokenizer:**
       - 基于输入的导航指令，[LLaMA](https://arxiv.org/pdf/2302.13971) tokenizer 将指令转换为文本tokens送入LLM。
