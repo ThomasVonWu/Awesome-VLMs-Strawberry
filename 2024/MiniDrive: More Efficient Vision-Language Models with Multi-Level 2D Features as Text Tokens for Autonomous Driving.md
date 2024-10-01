@@ -1,12 +1,12 @@
-# MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving[2024@UCAS ]
+# MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving [arxiv]
 ### 🔥 **论文链接：**  
-[MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving](https://arxiv.org/pdf/2409.07267)  
+- [MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving](https://arxiv.org/pdf/2409.07267)  
 ### 🔥 **代码链接：**  
-[GitHub - MiniDrive](https://github.com/EMZucas/minidrive) <font color=LightCoral>抱歉代码还未开源，只有链接，敬请期待！</font>  
+- [GitHub - MiniDrive](https://github.com/EMZucas/minidrive) <font color=LightCoral>抱歉代码还未开源，只有链接，敬请期待！</font>  
 ### 🔥 **数据集：**  
-[Drive-LM Datasets 下载教程](https://github.com/OpenDriveLab/DriveLM/tree/main/challenge)   
-[CODA-LM Datasets 主页](https://coda-dataset.github.io/coda-lm/)  
-[CODA-LM Datasets 下载教程](https://github.com/DLUT-LYZ/CODA-LM)  
+- [Drive-LM Datasets 下载教程](https://github.com/OpenDriveLab/DriveLM/tree/main/challenge)   
+- [CODA-LM Datasets 主页](https://coda-dataset.github.io/coda-lm/)  
+- [CODA-LM Datasets 下载教程](https://github.com/DLUT-LYZ/CODA-LM)  
 
 ## I) Main Contributions:
 - **轻量化**：MiniDrive<sub>224</sub>模型参数量在83M，浮点运算量5.9B，显存占用1.03GB，计算消耗显著小于其他VLM模型，使得该视觉语言模型的部署和落地成为可能。
