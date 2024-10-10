@@ -9,6 +9,11 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 
 ### 2024
 
+- [***HE-Drive: Human-Like End-to-End Driving with Vision Language Models [arxiv]***](https://arxiv.org/abs/2410.05051)
+    - [*Code*](https://github.com/jmwang0117/HE-Drive) <img src="https://img.shields.io/github/stars/jmwang0117/HE-Drive.svg"/>
+    - [*NuScenes-Datasets-Website*](https://www.nuscenes.org/nuscenes)
+    - [*OpenScene-Datasets-Tutorials*](https://github.com/OpenDriveLab/OpenScene)
+
 - [***Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving [ECCV2024]***](https://arxiv.org/abs/2312.03661)
     - [*Code*](https://github.com/fudan-zvg/reason2drive) <img src="https://img.shields.io/github/stars/fudan-zvg/reason2drive.svg"/>
     - [*Datasets-GoogelDisk*](https://drive.google.com/file/d/16IInbGqEzg4UcNhTlxVA9tS6tOTi4wet/view?usp=sharing)
@@ -28,7 +33,7 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
     - [*Code*](https://github.com/opendilab/LMDrive) <img src="https://img.shields.io/github/stars/opendilab/LMDrive.svg"/>
     - [*LMDrive-Datasets*](https://openxlab.org.cn/datasets/deepcs233/LMDrive)
 
-- [***CoDrivingLLM: Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework[arxiv]***](https://arxiv.org/pdf/2409.12812)  
+- [***CoDrivingLLM: Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework [arxiv]***](https://arxiv.org/pdf/2409.12812)  
     - [*Code*](https://github.com/FanGShiYuu/CoDrivingLLM) <img src="https://img.shields.io/github/stars/FanGShiYuu/CoDrivingLLM.svg"/>
     - *Dataset* ⚠️
 
