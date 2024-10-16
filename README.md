@@ -9,6 +9,10 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 
 ### 2024
 
+- [***VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions [ECCV2024]***](https://arxiv.org/abs/2407.12345)  
+    - [*Code*]() ⚠️  
+    - [*Datasets*](https://drive.google.com/file/d/1v_M_OuLnDzRo2uXyOrDfHNHbtoIcR3RA/edit)
+
 - [***HE-Drive: Human-Like End-to-End Driving with Vision Language Models [arxiv]***](https://arxiv.org/abs/2410.05051)
     - [*Code*](https://github.com/jmwang0117/HE-Drive) <img src="https://img.shields.io/github/stars/jmwang0117/HE-Drive.svg"/>
     - [*NuScenes-Datasets-Website*](https://www.nuscenes.org/nuscenes)
@@ -35,10 +39,10 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 
 - [***CoDrivingLLM: Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework [arxiv]***](https://arxiv.org/pdf/2409.12812)  
     - [*Code*](https://github.com/FanGShiYuu/CoDrivingLLM) <img src="https://img.shields.io/github/stars/FanGShiYuu/CoDrivingLLM.svg"/>
-    - *Dataset* ⚠️
+    - [*Datasets*]() ⚠️
 
 ### 2023
 
 - [***DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving [arxiv]***](https://arxiv.org/pdf/2409.12812)
     - [*Code*](https://github.com/OpenGVLab/DriveMLM) <img src="https://img.shields.io/github/stars/OpenGVLab/DriveMLM.svg"/>
-    - [*Dataset*](https://github.com/OpenGVLab/DriveMLM) <span style="color: red;">*coming soon*</span>
+    - [*Datasets*](https://github.com/OpenGVLab/DriveMLM) <span style="color: red;">*coming soon*</span>
