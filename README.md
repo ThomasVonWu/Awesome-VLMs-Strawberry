@@ -46,3 +46,11 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 - [***DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving [arxiv]***](https://arxiv.org/pdf/2409.12812)
     - [*Code*](https://github.com/OpenGVLab/DriveMLM) <img src="https://img.shields.io/github/stars/OpenGVLab/DriveMLM.svg"/>
     - [*Datasets*](https://github.com/OpenGVLab/DriveMLM) <span style="color: red;">*coming soon*</span>
+
+### 2022
+
+- [***CLIP:Learning Transferable Visual Models From Natural Language Supervision***](https://arxiv.org/pdf/2103.00020)
+    - [*Code*](https://github.com/openai/CLIP) <img src="https://img.shields.io/github/stars/openai/CLIP.svg"/>
+
+- [***BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation***](https://arxiv.org/pdf/2201.12086)
+    -  [*Code*](https://github.com/salesforce/BLIP) <img src="https://img.shields.io/github/stars/salesforce/BLIP.svg"/>
