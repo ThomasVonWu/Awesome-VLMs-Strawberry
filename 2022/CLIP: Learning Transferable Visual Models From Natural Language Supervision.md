@@ -20,20 +20,10 @@ this gap and study the behaviors of image classifiers trained with natural langu
 suggests that zero-shot evaluation of task-agnostic models is much more representative of a model’s capability.
 
 ## Approach
-<!-- 
 **1. Natural Language Supervision**  
-**2. Creating a Sufficiently Large Dataset**  
-**3. Selecting an Efficient Pre-Training Method**    
-- Our initial approach, similar to VirTex, jointly trained an image CNN and text transformer from scratch to predict the caption of an image. 
-    - we explored training a system to solve the potentially easier proxy task of predicting only which text as a whole is paired with which image and not the exact words of that text.
-    - CLIP learns multi-modal embedding space by jointly training an image encoder and text encoder to maximize the cosine similarity of the image and text embeddings of the N real pairs in the batch while minimizing the cosine similarity of the embeddings of the N2 − N incorrect pairings.
-    - We train CLIP from scratch without initializing the image encoder with ImageNet weights or the text encoder with pre-trained weights.
-    - We instead use only a linear projection to map from each encoder’s representation to the multi-modal embedding space.
-    -  A random square crop from resized images is the only data augmentation used during training.  
 
-**4. Choosing and Scaling a Model ** -->
-**1. Natural Language Supervision**  
 **2. Creating a Sufficiently Large Dataset**  
+
 **3. Selecting an Efficient Pre-Training Method**  
    - Our initial approach, similar to VirTex, jointly trained an image CNN and text transformer from scratch to predict the caption of an image.
        - We explored training a system to solve the potentially easier proxy task of predicting only which text as a whole is paired with which image and not the exact words of that text.
@@ -55,18 +45,5 @@ suggests that zero-shot evaluation of task-agnostic models is much more represen
        - The transformer operates on a lower-cased byte pair encoding (BPE) representation of the text with a vocab size of 49,152.
        - For the text encoder, we only **scale the width** of the model to be proportional to the calculated increase in width of the ResNet and do not scale the depth at all.
 
-
-<!-- **4. Choosing and Scaling a Model**
-    - Two different architectures for the image encoder
-    - ResNet-50 
-        - ResNetD + antialiased rect-2 blur pooling + global average pooling layer with an attention pooling
-        - For the ResNet image encoders we adapt the approach of Tan & Le (2019) which found that allocating additional compute across all of width, depth, and resolution outperforms only allocating it to only one dimension of the model.
-        - While Tan & Le (2019) tune the ratio of compute allocated to each dimension for their EfficientNet architecture, we use **a simple baseline of allocating additional compute** equally to increasing the width, depth, and resolution of the model. 
-    - Vision Transformer (adding an additional layer normalization to the combined patch and position embeddings before the transformer and use a slightly different initialization scheme)
-    - Text with Transformer
-    - As a base size we use a 63M-parameter 12-layer 512-wide model with 8 attention heads
-    - The transformer operates on a lower-cased byte pair encoding (BPE) representation of the text with a 49,152 vocab size
-    - For the text encoder, we only **scale the width** of the model to be proportional to the calculated increase in width of the ResNet and do not scale the depth at all. -->
-
 ## Backup
-+ 优质博客:https://zhuanlan.zhihu.com/p/493489688
++ blog: https://zhuanlan.zhihu.com/p/493489688

@@ -9,6 +9,11 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 
 ### 2024
 
+- [***EMMA: End-to-End Multimodal Model for Autonomous Driving[arxiv]***](https://storage.googleapis.com/waymo-uploads/files/research/EMMA-paper.pdf)
+    - [*Code*]() ⚠️  
+    - [*Blog*](https://waymo.com/blog/2024/10/introducing-emma/)
+
+
 - [***VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions [ECCV2024]***](https://arxiv.org/abs/2407.12345)  
     - [*Code*]() ⚠️  
     - [*Datasets*](https://drive.google.com/file/d/1v_M_OuLnDzRo2uXyOrDfHNHbtoIcR3RA/edit)
