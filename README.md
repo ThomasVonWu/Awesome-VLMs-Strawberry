@@ -52,6 +52,9 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
     - [*Code*](https://github.com/OpenGVLab/DriveMLM) <img src="https://img.shields.io/github/stars/OpenGVLab/DriveMLM.svg"/>
     - [*Datasets*](https://github.com/OpenGVLab/DriveMLM) <span style="color: red;">*coming soon*</span>
 
+- [***BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models***](https://arxiv.org/abs/2301.12597)
+    -  [*Code*](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) <img src="https://img.shields.io/github/stars/salesforce/LAVIS.svg"/>
+
 ### 2022
 
 - [***CLIP:Learning Transferable Visual Models From Natural Language Supervision***](https://arxiv.org/pdf/2103.00020)
