@@ -13,7 +13,6 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
     - [*Code*]() ⚠️  
     - [*Blog*](https://waymo.com/blog/2024/10/introducing-emma/)
 
-
 - [***VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions [ECCV2024]***](https://arxiv.org/abs/2407.12345)  
     - [*Code*]() ⚠️  
     - [*Datasets*](https://drive.google.com/file/d/1v_M_OuLnDzRo2uXyOrDfHNHbtoIcR3RA/edit)
@@ -44,6 +43,10 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 
 - [***CoDrivingLLM: Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework [arxiv]***](https://arxiv.org/pdf/2409.12812)  
     - [*Code*](https://github.com/FanGShiYuu/CoDrivingLLM) <img src="https://img.shields.io/github/stars/FanGShiYuu/CoDrivingLLM.svg"/>
+    - [*Datasets*]() ⚠️
+
+- [**XGEN-MM-VID (BLIP-3-VIDEO): YOU ONLY NEED 32 TOKENS TO REPRESENT A VIDEO EVEN IN VLMS[arxiv]**](https://arxiv.org/abs/2410.16267)
+    - [*Code*]() ⚠️
     - [*Datasets*]() ⚠️
 
 ### 2023
