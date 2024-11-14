@@ -52,7 +52,7 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
     - [*Code*]() ⚠️
     - [*Datasets*]() ⚠️
 
-- [**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks(arxiv)**](https://arxiv.org/abs/2406.08394)  
+- [**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks[arxiv]**](https://arxiv.org/abs/2406.08394)  
     - [*Code*](https://github.com/OpenGVLab/VisionLLM/tree/main/VisionLLMv2) <img src="https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg"/>
 
 ### 2023
