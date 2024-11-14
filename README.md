@@ -9,6 +9,9 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 
 ### 2024
 
+- [***Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving[arxiv]***](https://github.com/hustvl/Senna)
+    - [*Code*](https://github.com/hustvl/Senna) <img src="https://img.shields.io/github/stars/hustvl/Senna.svg"/>
+
 - [***EMMA: End-to-End Multimodal Model for Autonomous Driving[arxiv]***](https://storage.googleapis.com/waymo-uploads/files/research/EMMA-paper.pdf)
     - [*Code*]() ⚠️  
     - [*Blog*](https://waymo.com/blog/2024/10/introducing-emma/)
@@ -48,6 +51,9 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 - [**XGEN-MM-VID (BLIP-3-VIDEO): YOU ONLY NEED 32 TOKENS TO REPRESENT A VIDEO EVEN IN VLMS[arxiv]**](https://arxiv.org/abs/2410.16267)
     - [*Code*]() ⚠️
     - [*Datasets*]() ⚠️
+
+- [**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks(arxiv)**](https://arxiv.org/abs/2406.08394)  
+    - [*Code*](https://github.com/OpenGVLab/VisionLLM/tree/main/VisionLLMv2) <img src="https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg"/>
 
 ### 2023
 
