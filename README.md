@@ -55,6 +55,10 @@ A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autono
 - [**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks[arxiv]**](https://arxiv.org/abs/2406.08394)  
     - [*Code*](https://github.com/OpenGVLab/VisionLLM/tree/main/VisionLLMv2) <img src="https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg"/>
 
+- [**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training[arxiv]**](https://arxiv.org/abs/2410.08202)  
+    - [*Code*]() ⚠️
+    - [*HuggingFace*](https://huggingface.co/OpenGVLab/Mono-InternVL-2B)
+
 ### 2023
 
 - [***DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving [arxiv]***](https://arxiv.org/pdf/2409.12812)
